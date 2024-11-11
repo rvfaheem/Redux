@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.image {
+  display: flex;
+  
+}
+.img {
+  height: 200px;
+  width: 300px;
+}
+
+.image3 {
+  height: 200px;
+  width: 300px;
+}
+
+.btn {
+  color: #000;
+  background-color: red;
+}
+
+.th,td {
+  padding: 50px;
+}
+
+.btn1 {
+  color: #000;
+  background-color: blue;
+  padding: 10px;
+  
+}
